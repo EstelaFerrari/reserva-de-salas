@@ -1,0 +1,13 @@
+.footer {
+    background-color: rgb(35, 64, 255);
+    width: 100%;
+    height: 5rem;
+    
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.texto_footer {
+    color: #ffffff;
+}

@@ -1,0 +1,84 @@
+{
+    "reservas": [
+        {
+            "id": 1,
+            "descricao": "Curso Avançado de Projeto Arquitetônico",
+            "solicitante": "Gustavo Santos",
+            "sala": "Laboratório de Arquitetura",
+            "dataInicial": "30/12/2023 às 10:00:00",
+            "dataFinal": "30/12/2023 às 13:00:00"
+        },
+        {
+            "id": 2,
+            "descricao": "Palestra sobre Arquitetura Sustentável",
+            "solicitante": "Maria Oliveira",
+            "sala": "Sala de Conferências",
+            "dataInicial": "02/11/2023 às 15:00:00",
+            "dataFinal": "02/11/2023 às 17:00:00"
+        },
+        {
+            "id": 3,
+            "descricao": "Workshop de Design Urbano",
+            "solicitante": "Carlos Santos",
+            "sala": "Sala 203",
+            "dataInicial": "10/11/2023 às 14:30:00",
+            "dataFinal": "10/11/2023 às 16:30:00"
+        },
+        {
+            "id": 4,
+            "descricao": "Exposição de Maquetes Arquitetônicas",
+            "solicitante": "Ana Costa",
+            "sala": "Área de Exposições",
+            "dataInicial": "15/11/2023 às 10:00:00",
+            "dataFinal": "15/11/2023 às 18:00:00"
+        },
+        {
+            "id": 5,
+            "descricao": "Conferência de Urbanismo Moderno",
+            "solicitante": "Paulo Rodrigues",
+            "sala": "Auditório Principal",
+            "dataInicial": "20/11/2023 às 09:00:00",
+            "dataFinal": "20/11/2023 às 12:00:00"
+        },
+        {
+            "id": 6,
+            "descricao": "Curso de Introdução à Arquitetura Paisagística",
+            "solicitante": "Fernanda Lima",
+            "sala": "Sala 102",
+            "dataInicial": "28/11/2023 às 18:30:00",
+            "dataFinal": "28/11/2023 às 20:30:00"
+        },
+        {
+            "id": 7,
+            "descricao": "Debate sobre Tendências Arquitetônicas",
+            "solicitante": "Ricardo Mendes",
+            "sala": "Sala de Debates",
+            "dataInicial": "05/12/2023 às 19:00:00",
+            "dataFinal": "05/12/2023 às 21:00:00"
+        },
+        {
+            "id": 8,
+            "descricao": "Oficina de Desenho Arquitetônico",
+            "solicitante": "Patricia Souza",
+            "sala": "Laboratório de Desenho",
+            "dataInicial": "12/12/2023 às 14:00:00",
+            "dataFinal": "12/12/2023 às 16:00:00"
+        },
+        {
+            "id": 9,
+            "descricao": "Visita Técnica a Projetos Inovadores",
+            "solicitante": "Roberto Fernandes",
+            "sala": "Saída da Faculdade",
+            "dataInicial": "18/12/2023 às 08:30:00",
+            "dataFinal": "18/12/2023 às 17:00:00"
+        },
+        {
+            "id": 10,
+            "descricao": "Sessão de Filmes sobre Arquitetura Moderna",
+            "solicitante": "Camila Costa",
+            "sala": "Sala de Projeção",
+            "dataInicial": "22/12/2023 às 16:00:00",
+            "dataFinal": "22/12/2023 às 18:00:00"
+        }
+    ]
+}
